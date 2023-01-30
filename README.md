@@ -11,3 +11,5 @@ DSA questions challenge.
 6. [Perfect Rectangles](https://leetcode.com/problems/perfect-rectangle/description/)
 7. [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
    - [Solution](https://www.youtube.com/watch?v=EgI5nU9etnU)
+8. [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
+   - [Solution](https://www.youtube.com/watch?v=gXvHTFDAzPc)
