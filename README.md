@@ -9,3 +9,5 @@ DSA questions challenge.
 5. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
    - [Solution](https://leetcode.com/problems/largest-divisible-subset/solutions/684738/python-short-dp-with-o-n-2-explained-update/)
 6. [Perfect Rectangles](https://leetcode.com/problems/perfect-rectangle/description/)
+7. [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+   - [Solution](https://www.youtube.com/watch?v=EgI5nU9etnU)
