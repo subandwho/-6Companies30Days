@@ -13,3 +13,5 @@ DSA questions challenge.
    - [Solution](https://www.youtube.com/watch?v=EgI5nU9etnU)
 8. [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
    - [Solution](https://www.youtube.com/watch?v=gXvHTFDAzPc)
+9. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)
+   - [Solution](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solutions/2520681/python-solution-two-pointers-o-1-space/?page=2)
