@@ -15,3 +15,5 @@ DSA questions challenge.
    - [Solution](https://www.youtube.com/watch?v=gXvHTFDAzPc)
 9. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)
    - [Solution](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solutions/2520681/python-solution-two-pointers-o-1-space/?page=2)
+10. [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
+   - [Solution](https://www.youtube.com/watch?v=1JCXqupyLoQ)
