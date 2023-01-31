@@ -17,3 +17,5 @@ DSA questions challenge.
    - [Solution](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solutions/2520681/python-solution-two-pointers-o-1-space/?page=2)
 10. [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
     - [Solution](https://www.youtube.com/watch?v=1JCXqupyLoQ)
+11. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/description/)
+    - [Solution](https://leetcode.com/problems/longest-happy-prefix/solutions/3002682/easy-solution-well-explained-o-m-n-microsoft/)
