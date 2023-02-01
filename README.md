@@ -19,3 +19,6 @@ DSA questions challenge.
     - [Solution](https://www.youtube.com/watch?v=1JCXqupyLoQ)
 11. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/description/)
     - [Solution](https://leetcode.com/problems/longest-happy-prefix/solutions/3002682/easy-solution-well-explained-o-m-n-microsoft/)
+12. [Airplane Seat](https://leetcode.com/problems/airplane-seat-assignment-probability/description/)
+13. [Minimum Deletions](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description/)
+14. [Number of Substrings](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/solutions/)
