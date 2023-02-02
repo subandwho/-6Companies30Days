@@ -23,3 +23,4 @@ DSA questions challenge.
 13. [Minimum Deletions](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description/)
 14. [Number of Substrings](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/solutions/)
 15. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)
+16. [Valid Square](https://leetcode.com/problems/valid-square/description/)
