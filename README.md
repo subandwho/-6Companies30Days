@@ -24,3 +24,5 @@ DSA questions challenge.
 14. [Number of Substrings](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/solutions/)
 15. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)
 16. [Valid Square](https://leetcode.com/problems/valid-square/description/)
+17. [Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/description/)
+    - [Solution](https://leetcode.com/problems/factorial-trailing-zeroes/solutions/755572/python-log-n-loop-100-speed/?page=2)
