@@ -26,3 +26,4 @@ DSA questions challenge.
 16. [Valid Square](https://leetcode.com/problems/valid-square/description/)
 17. [Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/description/)
     - [Solution](https://leetcode.com/problems/factorial-trailing-zeroes/solutions/755572/python-log-n-loop-100-speed/?page=2)
+18. [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/submissions/890649022/)
