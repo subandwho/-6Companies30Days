@@ -29,3 +29,5 @@ DSA questions challenge.
 18. [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/submissions/890649022/)
 19. [Split array into Consecutive Subsequence](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/)
     - [Solution](https://leetcode.com/problems/split-array-into-consecutive-subsequences/solutions/2447044/python-c-easiest-approach-explained-dictionary-map-easy-understand/)
+20. [Minimum Consecutive Cards](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/)
+    - [Solution](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/solutions/2729646/python3-hashmaps/)
